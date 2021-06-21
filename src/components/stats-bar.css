@@ -1,0 +1,18 @@
+.stats-bar__div{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 200px;
+    padding-bottom: 70px;
+}
+
+.stat__div{
+    color:white;
+    font-family: ui-monospace,SFMono-Regular,SF Mono,Consolas,Liberation Mono,Menlo,monospace;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.stat_pgraph{
+    font-size: 12px;
+    line-height: 20px;
+}

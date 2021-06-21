@@ -1,0 +1,29 @@
+.hero__section{
+    width: 40%;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    box-sizing: border-box;
+    margin-right: 16px
+}
+
+.hero-section__heading{
+    z-index: 2;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: -.03em;
+    font-weight: 800;
+    color: white;
+    font-family: Alliance No.1,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+    margin-bottom: 16px;
+}
+
+.hero-section__pgraph{
+    color: #8193b2;
+    font-size: 24px;
+    line-height: 32px;   
+    font-weight: 400;
+    margin-right: -24px;
+    margin-bottom: 24px;
+    position: relative;
+    box-sizing: border-box
+}

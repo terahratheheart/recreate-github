@@ -1,0 +1,27 @@
+.login-control__container{
+    color:white;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.login-control__container a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+a:hover{
+color: var(--color-text-white);
+opacity: .75;
+transition: opacity .4s;
+}
+
+.login-control__container{
+    display: flex;
+    align-items: center;
+}
+
+.sign-up__link{
+    border: solid 1px white;
+    border-radius: 20px;
+}
